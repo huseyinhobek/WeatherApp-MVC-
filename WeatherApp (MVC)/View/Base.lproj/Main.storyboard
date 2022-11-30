@@ -16,8 +16,8 @@
                         <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Image" translatesAutoresizingMaskIntoConstraints="NO" id="iCW-lx-2pz" userLabel="background">
-                                <rect key="frame" x="-374" y="0.0" width="1139" height="891"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="back" translatesAutoresizingMaskIntoConstraints="NO" id="dpW-OI-Thh">
+                                <rect key="frame" x="-125" y="-1093" width="639" height="3030"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="dhp-sE-3S0">
@@ -271,7 +271,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="Image" width="662" height="662"/>
+        <image name="back" width="750" height="1334"/>
         <image name="cloud.rain" catalog="system" width="126" height="128"/>
         <image name="location.circle.fill" catalog="system" width="128" height="123"/>
         <image name="magnifyingglass" catalog="system" width="128" height="117"/>

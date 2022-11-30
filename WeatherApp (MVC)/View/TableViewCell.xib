@@ -70,7 +70,7 @@
                 <outlet property="maxTempLabel" destination="sor-Pp-NrH" id="fOF-RU-GPc"/>
                 <outlet property="minTempLabel" destination="did-uP-htf" id="87z-lx-ne9"/>
             </connections>
-            <point key="canvasLocation" x="-38.46153846153846" y="22.748815165876778"/>
+            <point key="canvasLocation" x="82" y="9"/>
         </tableViewCell>
     </objects>
     <resources>
